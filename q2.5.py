@@ -32,3 +32,4 @@ def plot_window(t_start, t_end, title):
 plot_window(0, 5, "High Frequency (Start)")
 plot_window(280, 285, "Resonance Frequency (Max Disk Amplitude)")
 plot_window(420, 425, "Low Frequency (End)")
+
